@@ -28,6 +28,7 @@ Now, you must integrate KCFinder in CKEditor :
         
    
    3 ) Finaly add code for your html code :
+      
       - first step add library CKEditor with code :
 
          <script src="{{ asset('ckeditor/ckeditor.js') }}"></script>
