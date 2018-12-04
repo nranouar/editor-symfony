@@ -5,9 +5,11 @@ step 1 :
   create project with framework symfony or to have an existing symfony project
 
 step 2 :
-  add two library in symfony project in public or web folder :
-      => the first library is CKEditor < https://ckeditor.com/ > - download here : < https://ckeditor.com/ckeditor-4/download/ > and to choose the standard package or full package
-      => the seconde library is KCFinder : < https://kcfinder.sunhater.com/ > - download here : < https://kcfinder.sunhater.com/integrate >
+  add two library in symfony project in public or web folder : 
+
+     => the first library is CKEditor < https://ckeditor.com/ > - download here : < https://ckeditor.com/ckeditor-4/download/ > and to choose the standard package or full package
+     
+     => the seconde library is KCFinder : < https://kcfinder.sunhater.com/ > - download here : < https://kcfinder.sunhater.com/integrate >
 
 Now, you must integrate KCFinder in CKEditor :
 
