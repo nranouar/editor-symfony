@@ -29,8 +29,11 @@ Now, you must integrate KCFinder in CKEditor :
    
    3 ) Finaly add code for your html code :
       - first step add library CKEditor with code :
+
          <script src="{{ asset('ckeditor/ckeditor.js') }}"></script>
+
       - second setp to establish the connection between the textarea field and the library with an id attribute 
+
 
           <textarea name="editor" id="editor" rows="10" cols="80">
             This is my textarea to be replaced with CKEditor.
