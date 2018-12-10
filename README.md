@@ -21,6 +21,7 @@ Now, you must integrate KCFinder in CKEditor :
      config.filebrowserUploadUrl = '/kcfinder/upload.php?opener=ckeditor&type=files';
      config.filebrowserImageUploadUrl = '/kcfinder/upload.php?opener=ckeditor&type=images';
      config.filebrowserFlashUploadUrl = '/kcfinder/upload.php?opener=ckeditor&type=flash';
+     config.filebrowserUploadMethod = 'form';
      
    2 ) change permission in KCFinder/conf/config.php
 
